@@ -1,0 +1,232 @@
+[
+  {
+    "venue": "LOCAL Montecito",
+    "area": "Coast Village Road",
+    "address": "1187 Coast Village Rd, Montecito, CA 93108",
+    "lat": 34.42125,
+    "lng": -119.6438,
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "start": "16:00",
+    "end": "18:00",
+    "deal": "Daily happy hour: $15 double smashburger + fries, $10 wings, $12 house margarita, $14 big martinis, $6 draft beer and more.",
+    "includes": [
+      "food",
+      "drink"
+    ],
+    "source": "https://localmontecito.com/happy-hour-montecito/"
+  },
+  {
+    "venue": "Lilac Montecito",
+    "area": "Coast Village Road",
+    "address": "1209 Coast Village Rd, Montecito, CA 93108",
+    "lat": 34.4216,
+    "lng": -119.6428,
+    "days": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "start": "15:00",
+    "end": "17:00",
+    "deal": "Happy hour with wine, beer, champagne and small plates; published menu includes baked oysters, calamari and cauliflower.",
+    "includes": [
+      "food",
+      "drink"
+    ],
+    "source": "https://www.lilacmontecito.com/menus/happy-hour"
+  },
+  {
+    "venue": "Bettina",
+    "area": "Montecito Country Mart",
+    "address": "1014 Coast Village Rd, Santa Barbara, CA 93108",
+    "lat": 34.4201,
+    "lng": -119.6505,
+    "days": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "start": "16:30",
+    "end": "17:30",
+    "deal": "Free margherita pizza with purchase of any wine from the list during happy hour.",
+    "includes": [
+      "food",
+      "drink"
+    ],
+    "source": "https://www.bettinapizzeria.com/location"
+  },
+  {
+    "venue": "Clark's Oyster Bar",
+    "area": "Coast Village Road",
+    "address": "1212 Coast Village Rd, Montecito, CA 93108",
+    "lat": 34.4217,
+    "lng": -119.6424,
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "start": "15:00",
+    "end": "17:00",
+    "deal": "Daily happy hour. Current local listings highlight discounted martinis, burgers, oysters, featured wine and beer; confirm current prices at venue.",
+    "includes": [
+      "food",
+      "drink"
+    ],
+    "source": "https://www.clarksoysterbar.com/locations/montecito"
+  },
+  {
+    "venue": "The Lion's Tale",
+    "area": "Montecito Inn",
+    "address": "1295 Coast Village Rd, Santa Barbara, CA 93108",
+    "lat": 34.4229,
+    "lng": -119.6395,
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "start": "16:00",
+    "end": "17:30",
+    "deal": "Weekday happy hour at the cocktail bar; Monday has also been promoted locally as an all-night happy-hour night. Confirm current menu/prices.",
+    "includes": [
+      "food",
+      "drink"
+    ],
+    "source": "https://www.lionstalebar.com/"
+  },
+  {
+    "venue": "Ospi Montecito",
+    "area": "Cabrillo / 93108",
+    "address": "1801 E Cabrillo Blvd Ste F, Santa Barbara, CA 93108",
+    "lat": 34.4182,
+    "lng": -119.6588,
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "start": "15:00",
+    "end": "17:00",
+    "deal": "Daily Aperitivo Happy Hour from 3\u20135 PM.",
+    "includes": [
+      "food",
+      "drink"
+    ],
+    "source": "https://ospi.com/montecito"
+  },
+  {
+    "venue": "Monte's",
+    "area": "Coast Village Road",
+    "address": "1198 Coast Village Rd, Montecito, CA 93108",
+    "lat": 34.42145,
+    "lng": -119.6431,
+    "days": [
+      0,
+      3,
+      4,
+      5,
+      6
+    ],
+    "start": "15:00",
+    "end": "17:00",
+    "deal": "Bar/lounge happy hour: snacks plus published specials including $10 house martini and $5 Pacifico; confirm current menu.",
+    "includes": [
+      "food",
+      "drink"
+    ],
+    "source": "https://www.montecitojournal.net/2026/08/11/coast-village-spotlight-2/"
+  },
+  {
+    "venue": "Renaud's Bistro",
+    "area": "Coast Village Road",
+    "address": "1187 Coast Village Rd Ste 7, Montecito, CA 93108",
+    "lat": 34.4212,
+    "lng": -119.6439,
+    "days": [
+      2
+    ],
+    "start": "07:00",
+    "end": "16:00",
+    "deal": "Tuesday special: $6 almond croissants, including chocolate almond croissants, as published in Coast Village Spotlight.",
+    "includes": [
+      "food"
+    ],
+    "source": "https://www.montecitojournal.net/2026/08/11/coast-village-spotlight-2/"
+  },
+  {
+    "venue": "The Lion's Tale",
+    "area": "Montecito Inn",
+    "address": "1295 Coast Village Rd, Santa Barbara, CA 93108",
+    "lat": 34.4229,
+    "lng": -119.6395,
+    "days": [
+      3
+    ],
+    "start": "18:30",
+    "end": "21:00",
+    "deal": "Live jazz every Wednesday, 6:30\u20139 PM.",
+    "includes": [
+      "event",
+      "music"
+    ],
+    "source": "https://www.lionstalebar.com/about"
+  },
+  {
+    "venue": "The Lion's Tale",
+    "area": "Montecito Inn",
+    "address": "1295 Coast Village Rd, Santa Barbara, CA 93108",
+    "lat": 34.4229,
+    "lng": -119.6395,
+    "days": [
+      1
+    ],
+    "start": "16:00",
+    "end": "23:59",
+    "deal": "Monday all-night happy hour, as published in current Coast Village listings.",
+    "includes": [
+      "food",
+      "drink"
+    ],
+    "source": "https://www.montecitojournal.net/2026/08/25/spotlight-coast-village-7/"
+  },
+  {
+    "venue": "Clark's Montecito",
+    "area": "Coast Village Road",
+    "address": "1212 Coast Village Rd, Montecito, CA 93108",
+    "lat": 34.4217,
+    "lng": -119.6424,
+    "days": [
+      3
+    ],
+    "start": "11:00",
+    "end": "22:00",
+    "deal": "Wine Wednesday: half off bottles of wine all day, per current Coast Village listings.",
+    "includes": [
+      "drink"
+    ],
+    "source": "https://www.montecitojournal.net/2026/08/25/spotlight-coast-village-7/"
+  }
+]
