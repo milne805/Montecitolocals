@@ -228,5 +228,48 @@
       "drink"
     ],
     "source": "https://www.montecitojournal.net/2026/08/25/spotlight-coast-village-7/"
+  },
+  {
+    "venue": "The Speakeasy at San Ysidro Ranch",
+    "area": "San Ysidro Ranch",
+    "address": "900 San Ysidro Ln, Montecito, CA 93108",
+    "lat": 34.4391,
+    "lng": -119.6253,
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "start": "19:00",
+    "end": "22:30",
+    "deal": "Live music nightly in the Speakeasy; cocktails and an intimate evening setting.",
+    "includes": [
+      "drink",
+      "music",
+      "event"
+    ],
+    "source": "https://www.sanysidroranch.com/dining"
+  },
+  {
+    "venue": "Montecito Farmers Market",
+    "area": "Coast Village Road",
+    "address": "1100\u20131300 Coast Village Rd, Montecito, CA 93108",
+    "lat": 34.4212,
+    "lng": -119.6462,
+    "days": [
+      5
+    ],
+    "start": "08:00",
+    "end": "11:15",
+    "deal": "Friday morning certified farmers market with local produce and farm goods.",
+    "includes": [
+      "market",
+      "event"
+    ],
+    "source": "https://www.sbfarmersmarket.org/"
   }
 ]
